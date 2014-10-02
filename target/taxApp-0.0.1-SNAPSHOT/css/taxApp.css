@@ -1,0 +1,91 @@
+body {
+	padding: 2em 10em 0 10em
+}
+
+form {
+	padding:0;
+	margin:0;
+}
+
+.errorBox {
+	border: 2px;
+	padding: 5px;
+	background-color: #ff7666;
+}
+
+.error {
+	color: #000000;
+	font-weight: bold;
+}
+
+h2 {
+	color: #023d02;
+}
+
+div.field {
+	width: 100%;
+	margin: 0.2em 0 0 0.5em;
+}
+
+input {
+	padding:0;
+}
+
+select {
+	padding:0;
+}
+
+label, label.inlineLabel {
+	display: block;
+	font-weight: bold;
+	color: #404052;
+	margin: 0;
+	padding: 0;
+	float:left;
+	clear: left;
+	vertical-align: middle;
+	width: 40%;
+}
+
+label.inlineLabel {
+	display: inline;
+	float: none;
+	clear: none;
+}
+
+legend {
+	position:relative;
+	top: -0.25em;
+	fond-weight: bold;
+	color: black;
+	padding: 0 0 0 0.25em;
+	margin: 0;
+	width: 100%;
+	background: linear-gradient(white, #aad9aa);
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 4px;
+}
+
+fieldset {
+	padding: 0;
+	border: 1px solid #aad9aa;
+	margin-bottom: 1em;
+	width: 600px;
+	border-radius: 4px;
+}
+
+table {
+	width: 400px;
+	border: 1px solid #aad9aa;
+	padding: 5px;
+	border-radius: 4px;
+}
+
+caption {
+	background: linear-gradient(white, #aad9aa);
+	border: 1px solid black;
+	border-radius: 4px;
+	position: relative;
+	top: 0.5em;
+}

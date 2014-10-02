@@ -1,8 +1,0 @@
-com/shoemaker/taxApp/constants/GrossPayType.class
-com/shoemaker/taxApp/constants/TaxYear.class
-com/shoemaker/taxApp/constants/PayFrequency.class
-com/shoemaker/taxApp/constants/UsState.class
-com/shoemaker/taxApp/PaycheckCalculatorServlet.class
-com/shoemaker/taxApp/models/PaycheckCalculatorBean.class
-com/shoemaker/taxApp/constants/FilingStatus.class
-com/shoemaker/taxApp/constants/ICodeDisplayKey.class
